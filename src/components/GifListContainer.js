@@ -2,7 +2,7 @@ import React,{ useEffect, useState } from "react";
 import GifList from "./GifList";
 import GifSearch from "./GifSearch";
 import "bootstrap/dist/css/bootstrap.css";
-import './GifListContainer.css';
+// import './GifListContainer.css';
 
 
 const TRENDING_API = `https://api.giphy.com/v1/gifs/trending?api_key=r910KZPDTbQkoMGS7kBFMfiqP9Stk1uR`
